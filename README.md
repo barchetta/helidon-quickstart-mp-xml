@@ -6,7 +6,7 @@ It started with the Helidon Quickstart and added a POST endpoint that returns XM
 
 ## Build and run
 
-With JDK8+
+With JDK11+
 ```bash
 mvn package
 java -jar target/helidon-quickstart-mp.jar
